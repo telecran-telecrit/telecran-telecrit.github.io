@@ -1,6 +1,6 @@
 # Introduction
 
-[vizjs-online](https://github.com/telecran-telecrit/telecran-telecrit.github.io/libs/vizjs-online) could let you debug the graphviz languages online. [DEMO](https://telecran-telecrit.github.io/telecran-telecrit.github.io/libs/vizjs-online/)
+[vizjs-online](https://github.com/telecran-telecrit/telecran-telecrit.github.io/tree/master/libs/vizjs-online) could let you debug the graphviz languages online. [DEMO](https://telecran-telecrit.github.io/telecran-telecrit.github.io/libs/vizjs-online/)
 
 # How to implement this
 
