@@ -234,4 +234,4 @@ FCKConfig.SmileyWindowWidth		= 320 ;
 FCKConfig.SmileyWindowHeight	= 240 ;
 
 // These options can be overridden by the application
-FCKConfig.CustomConfigurationsPath = './fckconfig.js' ;
+FCKConfig.CustomConfigurationsPath = '../fckconfig.js' ;
