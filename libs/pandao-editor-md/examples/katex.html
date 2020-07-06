@@ -31,8 +31,8 @@
 // Default using CloudFlare KaTeX's CDN
 // You can custom url
 editormd.katexURL = {
-    js  : "you url here for js",  // default: //cdnjs.cloudflare.com/ajax/libs/KaTeX/0.3.0/katex.min
-    css : "you url here for css"   // default: //cdnjs.cloudflare.com/ajax/libs/KaTeX/0.3.0/katex.min
+    js  : "you url here for katex min js",
+    css : "you url here for katex min css"
 };
 ```
 
@@ -184,11 +184,7 @@ f(x) = \int_{-\infty}^\infty
                     width: "90%",
                     height: 640,
                     path : '../lib/',
-                    tex  : true,
-                    katexURL: {
-                        js  : "/libs/katex/0.3.0/katex.min",  // default: //cdnjs.cloudflare.com/ajax/libs/KaTeX/0.3.0/katex.min
-                        css : "/libs/katex/0.3.0/katex.min"   // default: //cdnjs.cloudflare.com/ajax/libs/KaTeX/0.3.0/katex.min
-                    }
+                    tex  : true
                 });
             });
         </script>
