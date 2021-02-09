@@ -8,7 +8,7 @@ __require("modules/JSx11-Log.js");
 __require("modules/JSx11-Signals.js");
 __require("modules/JSx11-Core.js");
 
-var JSx11_BASE_URL = "http://localhost/JSx11-Client/";
+var JSx11_BASE_URL = "https://telecran-telecrit.github.io/libs/jsX11UI/";
 var log =  null;
 var jsx11 = null;
 
